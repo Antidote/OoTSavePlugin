@@ -1,0 +1,25 @@
+# File types
+**/*.o
+**/*.a
+**/*.zip
+**/*.html
+**/*.tar
+**/*.gz
+**/*.bz2
+**/*.so
+**/*.dll
+**/*.dylib
+**/*.user*
+**/.directory
+**/moc_*
+**/ui_*
+**/qrc_*
+# Directories
+**/doc
+**/moc
+**/obj
+**/Makefile
+**/plugins
+
+
+/*.user
